@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlashCardPlus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sing_title">sing</string>
+    <string name="sing_content">・She sang to the piano.</string>
+    <string name="sing_meaning">歌う</string>
+
+    <string name="angry_title">angry</string>
+    <string name="angry_content">・She is very angry.</string>
+    <string name="angry_meaning">怒る</string>
+
+</resources>
