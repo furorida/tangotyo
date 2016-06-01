@@ -11,4 +11,18 @@
     <string name="angry_content">・She is very angry.</string>
     <string name="angry_meaning">怒る</string>
 
+    <string name="cry_title">cry</string>
+    <string name="cry_content">・She is crying.</string>
+    <string name="cry_meaning">泣く</string>
+
+
+    <string name="happy_title">happy</string>
+    <string name="happy_content">・She is happy.</string>
+    <string name="happy_meaning">幸せ</string>
+
+    <string name="basketball_title">basketball</string>
+    <string name="basketball_content">・He plays basketball.</string>
+    <string name="basketball_meaning">バスケットボール</string>
+
+
 </resources>

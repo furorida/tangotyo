@@ -8,7 +8,7 @@
     <dimen name="card_item_title_margin">4dp</dimen>
     <dimen name="card_item_favorite_size">28dp</dimen>
 
-    <dimen name="text_size_title">@dimen/text_size_xlarge</dimen>
+    <dimen name="text_size_title">80sp</dimen>
     <dimen name="text_size_category">@dimen/text_size_medium</dimen>
     <dimen name="text_size_content">@dimen/text_size_large</dimen>
 
